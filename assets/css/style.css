@@ -118,6 +118,10 @@ display: flex;
 justify-content: center;
 }
 
+.Contact-details {
+  color: var(--bright);
+  text-align: center;
+}
 
 form {
   margin: 30px auto;
